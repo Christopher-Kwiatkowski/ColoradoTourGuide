@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#4e9c59</color>
+    <color name="primary_dark_color">#28522e</color>
+    <color name="background">#a8e0b1</color>
+    <color name="category_mountains">#53ad03</color>
+    <color name="category_lakes">#0231ed</color>
+    <color name="category_ski">#02c7e6</color>
+    <color name="category_restaurants">#d173f0</color>
+</resources>
